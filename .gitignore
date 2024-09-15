@@ -1,0 +1,42 @@
+# Diretórios e arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Pastas de ambiente de desenvolvimento (IDE)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de backup de editores de texto
+*~
+
+# Pastas de banco de dados locais (se você usar scripts para gerar o banco em sua máquina)
+mysql-data/
+db-backups/
+
+# Credenciais sensíveis (caso utilize arquivos de configuração)
+.env
+*.env
+*.env.local
+.env.*
+
+# Arquivos gerados por ferramentas de build (se houver)
+dist/
+build/
+
+# Ignorar SQL dumps e backups de banco de dados, se não forem necessários
+*.sql
+*.dump
+
+# Configurações locais
+config.php
+.env.*
