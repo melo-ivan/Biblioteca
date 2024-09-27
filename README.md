@@ -1,5 +1,5 @@
-Sistema de Gerenciamento de Biblioteca
-Descrição
+* Sistema de Gerenciamento de Biblioteca *
+
 O Sistema de Gerenciamento de Biblioteca é um projeto desenvolvido para o gerenciamento eficiente de uma biblioteca, permitindo o controle de autores, livros e empréstimos. Utilizando comandos SQL, o sistema realiza operações de criação de banco de dados, inserção de registros, consultas, atualizações e exclusões de dados. Este projeto visa facilitar a administração de um acervo de livros, gerenciando os empréstimos e devoluções de forma automatizada e confiável.
 
 Estrutura do Projeto
